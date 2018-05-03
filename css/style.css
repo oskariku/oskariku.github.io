@@ -145,9 +145,11 @@ body {
   font-family: "8BITWONDERNominal";
 }
 /* LINK PAGE */
-.link_head {
+
+/*.link_head {
   box-shadow: 5px 5px 25px grey;
-}
+}*/
+
 .responsive .darkestdungeon img {
   width: 400px;
   height: auto;
